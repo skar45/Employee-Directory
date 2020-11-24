@@ -4,7 +4,7 @@
 
 
 ### Description
-This app was created using react to show the functionality of web hooks and global states. Each employee is randomly generated using an API. The employees can be sorted by name or filtered using the search bar.
+This app was created using react to show the functionality of web hooks and global states. Each employee is randomly generated using an API. The employees can be sorted by email or filtered using the search bar.
 
 ### Table of Content  
 [Installation](#Installation)  
