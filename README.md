@@ -18,6 +18,10 @@ Required: react.js, node.js
 
 ## Usage
         npm start
+![Capture3](https://user-images.githubusercontent.com/69816889/100042526-a12a7700-2dd9-11eb-9c70-c0b2c71addde.PNG)
+![capture](https://user-images.githubusercontent.com/69816889/100042527-a12a7700-2dd9-11eb-8601-5dbabf082b61.PNG)
+![Capture2](https://user-images.githubusercontent.com/69816889/100042529-a1c30d80-2dd9-11eb-9917-23a64126dcef.PNG)
+
 
 ## License
 
